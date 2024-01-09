@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+[x-cloak] {
+    display: none;
+}
+
+.myrent img {
+    width: 200px;
+    height: 200px;
+}
+
+.update img {
+    width: 200px;
+    height: 200px;
+}
+
+.rentImg img {
+    width: 200px;
+    height: 200px;
+}
